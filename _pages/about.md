@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar, <a href='https://www.uci.edu/'>UC Irvine</a>, wenjieww [at] uci [dot] edu.
+subtitle: Postdoctoral Scholar, <a href='https://www.physics.uci.edu/'>UC Irvine</a>, wenjieww [at] uci [dot] edu.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   image_circular: false # crops the image to make it circular
 #  address: >
 #    <p>555 your office number</p>
