@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Daily arXiv
 permalink: /dailyarxiv/
 description: A daily update of the arxiv
