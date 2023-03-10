@@ -125,8 +125,14 @@ def json_to_md(filename):
         
         f.write(
 '''---
-layout: article
-title: Daily arXiv
+layout: page
+title: dailyArxiv
+permalink: /dailyarxiv/
+description: A daily update of the arxiv
+nav: true
+nav_order: 6
+display_categories: [work, fun]
+horizontal: false
 mathjax: true
 aside:
   toc: true
