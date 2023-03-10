@@ -114,7 +114,7 @@ def json_to_md(filename):
         else:
             data = json.loads(content)
 
-    md_filename = "cv_arxiv_daily.md"  
+    md_filename = "_pages/cv_arxiv_daily.md"  
       
     # clean cv_arxiv_daily.md if daily already exist else create it
     with open(md_filename,"w+") as f:
