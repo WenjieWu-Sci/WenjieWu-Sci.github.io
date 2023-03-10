@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily arXiv
+title: dailyArxiv
 permalink: /dailyarxiv/
 description: A daily update of the arxiv
 nav: true
