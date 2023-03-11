@@ -9,11 +9,6 @@ on:
     branches:
       - master
       - main
-  workflow_run:
-    workflows:
-      - Run Arxiv Papers Daily
-    types:
-      - completed
 
 jobs:
   deploy:
