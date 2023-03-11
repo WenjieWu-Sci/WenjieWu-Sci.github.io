@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-03-03 17:00:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+NOvA Collaboration Meeting at UC Irvine, 2023 sucessfully concluded today.
