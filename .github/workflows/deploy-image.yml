@@ -8,6 +8,7 @@ on:
       - Run Arxiv Papers Daily
     types:
       - completed
+  workflow_dispatch:
 
 jobs: 
 
