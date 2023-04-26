@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-04-12 08:30:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We presented a <a href="https://indico.bnl.gov/event/18372/contributions/75216/subcontributions/2340">short talk</a> regarding FASER, FPF and FLArE at the P5 town hall meeting hosted by BNL.
