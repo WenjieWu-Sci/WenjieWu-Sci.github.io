@@ -53,3 +53,17 @@ jobs:
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
+
+      - name: Build PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: _pages/cv_arxiv_daily.md
+          output_dir: assets/pdf
+          build_html: false
+          table_of_contents: true
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v1
+        with:
+          name: my-artifact
+          path: assets/pdf
