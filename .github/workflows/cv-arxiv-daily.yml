@@ -43,17 +43,7 @@ jobs:
       - name: Run daily arxiv 
         run: |
           python daily_arxiv.py
-          
-      - name: Push new cv-arxiv-daily.md
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: _pages/cv_arxiv_daily.md cv-arxiv-daily.json
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
-
+       
       - name: Build PDF
         uses: baileyjm02/markdown-to-pdf@v1
         with:
@@ -61,3 +51,14 @@ jobs:
           output_dir: assets/pdf
           build_html: false
           table_of_contents: true
+          
+      - name: Push new cv-arxiv-daily.md
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Github Action Automatic Update CV Arxiv Papers"
+          files: _pages/cv_arxiv_daily.md cv-arxiv-daily.json assets/pdf/cv_arxiv_daily.pdf
+          rebase: 'true'
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}
+
