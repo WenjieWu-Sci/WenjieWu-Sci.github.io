@@ -44,20 +44,20 @@ jobs:
         run: |
           python daily_arxiv.py
        
-      - name: Build PDF
-        run: |
-          npm install -g md-to-pdf
-          echo; echo "Input Folder Listing"
-          ls _pages
-          echo; echo "Generating PDF"
-          cat _pages/cv_arxiv_daily.md | md-to-pdf > assets/pdf/cv_arxiv_daily.pdf
+#      - name: Build PDF
+#        run: |
+#          npm install -g md-to-pdf
+#          echo; echo "Input Folder Listing"
+#          ls _pages
+#          echo; echo "Generating PDF"
+#          cat _pages/cv_arxiv_daily.md | md-to-pdf > assets/pdf/cv_arxiv_daily.pdf
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: _pages/cv_arxiv_daily.md cv-arxiv-daily.json assets/pdf/cv_arxiv_daily.pdf
+          files: _pages/cv_arxiv_daily.md cv-arxiv-daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
