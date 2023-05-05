@@ -45,12 +45,12 @@ jobs:
           python daily_arxiv.py
        
       - name: Build PDF
-        uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_path: _pages/cv_arxiv_daily.md
-          output_dir: assets/pdf
-          build_html: false
-          table_of_contents: true
+        run: |
+          npm install -g md-to-pdf
+          echo; echo "Input Folder Listing"
+          ls _pages
+          echo; echo "Generating PDF"
+          cat _pages/cv_arxiv_daily.md | md-to-pdf > assets/pdf/cv_arxiv_daily.pdf
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
