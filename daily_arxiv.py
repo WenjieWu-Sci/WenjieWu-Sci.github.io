@@ -46,6 +46,7 @@ def get_daily_papers(topic,query="neutrino", max_results=2):
         paper_abstract = result.summary.replace("\n"," ")
         paper_abstract = paper_abstract.replace("_", "\_")
         paper_abstract = paper_abstract.replace("|", "\|")
+        paper_abstract = paper_abstract.replace("$", "$$")
         #paper_abstract = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', paper_abstract)
         paper_authors  = get_authors(result.authors)
         paper_first_author = get_authors(result.authors,first_author = True)
