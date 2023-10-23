@@ -12,7 +12,7 @@ aside:
   toc: true
 ---
 
- Updated on 2023.10.22
+ Updated on 2023.10.23
 # neutrino (0)
 
 # dark matter (0)
