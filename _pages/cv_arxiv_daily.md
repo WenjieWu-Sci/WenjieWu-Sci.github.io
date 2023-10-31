@@ -12,10 +12,22 @@ aside:
   toc: true
 ---
 
- Updated on 2023.10.30
-# neutrino (0)
+ Updated on 2023.10.31
+# neutrino (2)
 
-# dark matter (0)
+2023-10-30, **The unprecedented flaring activities around Mrk 421 in 2012 and 2013: The test for neutrino and UHECR event connection**, Nissim Fraija et.al., [2310.19227v1](http://arxiv.org/abs/2310.19227v1)
+
+ Since its mission, Fermi Collaboration reported the highest flux observed during July - September 2012 for the BL Lac Markarian 421 (Mrk 421). The integrated flux was eight times greater than the average flux reported in the second Fermi catalog. During April 2013, Mrk 421 exhibited the highest TeV $\gamma$-ray and optical fluxes recorded. The Telescope Array (TA) collaboration reported the arrival of 72 ultra-high-energy cosmic rays (UHECRs), two in temporal and positional coincidence with the flaring activity observed in 2012 and one with the flaring activity in 2013. The IceCube collaboration has reported around 100 neutrino events in the High-Energy Starting Events (HESE) catalog. Although no neutrino track-like event has been associated with this source, a neutrino shower-like event (IC31) is in temporal and positional coincidence with the flare in 2012. Describing the broadband spectral energy distribution during the flaring activities exhibited in 2012 and 2013 with one- and two-zone lepto-hadronic scenarios and one-zone SSC model, we study a possible correlation between the neutrino event IC31 and the three UHECRs. We estimate the number of neutrino and UHECR events generated from the proposed models, and show that while the neutrino events are low to associate the event IC31 with Mrk 421, the number of UHECRs are similar to those reported by TA collaboration.
+
+2023-10-29, **Large-scale shell-model study of two-neutrino double-beta decay of $^{82}$Se, $^{94}$Zr, $^{108}$Cd, $^{124}$Sn, $^{128}$Te, $^{130}$Te, $^{136}$Xe, and $^{150}$Nd**, Deepak Patel et.al., [2310.19015v1](http://arxiv.org/abs/2310.19015v1)
+
+ Large-scale shell-model calculations have been performed for the study of two neutrino double-beta ($2\nu\beta\beta$) decay in $^{82}$Se, $^{94}$Zr, $^{108}$Cd, $^{124}$Sn, $^{128}$Te, $^{130}$Te, $^{136}$Xe, and $^{150}$Nd. We have employed JUN45 interaction to calculate the nuclear matrix element (NME) for $2\nu\beta\beta$ decay in $^{82}$Se. In the case of $^{94}$Zr, the glekpn effective interaction is used. For $^{108}$Cd, we have used a realistic effective interaction derived through the G-matrix approach. In the case of $^{124}$Sn, $^{128,130}$Te and $^{136}$Xe, the sn100pn effective interaction is employed. For $^{150}$Nd, we have used KHHE effective interaction based on holes in a $^{208}$Pb core. We have extracted the half-lives of these nuclei for the $2\nu\beta\beta$ decay with the help of calculated NME. Our results are consistent with the available experimental half-lives. The variation of cumulative $2\nu\beta\beta$ NME with respect to the excitation energy of the intermediate $1^+$ states is also shown, and in all cases, it is ensured that their values are almost saturated. In the present work we have calculated more intermediate $1^+$ states as much as possible in comparison to results available in the literature.
+
+# dark matter (1)
+
+2023-10-29, **Constraints on Tsallis Cosmology from Big Bang Nucleosynthesis and the Relic Abundance of Cold Dark Matter Particles**, Petr Jizba et.al., [2310.19045v1](http://arxiv.org/abs/2310.19045v1)
+
+ By employing Tsallis' extensive but non-additive $\delta$-entropy, we formulate the first two laws of thermodynamics for gravitating systems. By invoking Carath\'{e}odory's principle, we pay particular attention to the integrating factor for the heat one-form. We show that the latter factorizes into the product of thermal and entropic parts, where the entropic part cannot be reduced to a constant, as is the case in conventional thermodynamics, due to the non-additive nature of $S\_{\delta}$. The ensuing two laws of thermodynamics imply a Tsallis cosmology, which is then applied to a radiation-dominated universe to address the Big Bang nucleosynthesis and the relic abundance of cold dark matter particles. It is demonstrated that the Tsallis cosmology with the scaling exponent $\delta$$\sim$$1.499$ (or equivalently, the anomalous dimension $\Delta\sim0.0013$) consistently describes both the abundance of cold dark matter particles and the formation of primordial light elements, such as deuterium ${}^{2}\!H$ and helium ${}^{4}\!He$. Salient issues, including the zeroth law of thermodynamics for the $\delta$-entropy and the lithium ${}^{7}\!Li$ problem, are also briefly discussed.
 
 # supernova (0)
 
