@@ -12,10 +12,18 @@ aside:
   toc: true
 ---
 
- Updated on 2023.12.27
-# neutrino (0)
+ Updated on 2023.12.28
+# neutrino (1)
+
+2023-12-26, **Sub-GeV Gamma Rays from Nearby Seyfert Galaxies and Implications for Coronal Neutrino Emission**, Kohta Murase et.al., [2312.16089v1](http://arxiv.org/abs/2312.16089v1)
+
+ Recent observations of high-energy neutrinos by IceCube and gamma rays by the Fermi Large Area Telescope (LAT) and the MAGIC telescope have suggested that neutrinos are produced in gamma-ray opaque environments in the vicinity of supermassive black holes. In this work, we present 20 MeV - 1 TeV spectra of three Seyfert galaxies whose nuclei are predicted to be active in neutrinos, NGC 4151, NGC 4945 and the Circinus Galaxy, using 14.4 years of the Fermi LAT data. In particular, we find evidence of sub-GeV excess emission that can be attributed to gamma rays from NGC 4945, as was also seen in NGC 1068. These spectral features are consistent with predictions of the magnetically-powered corona model, and we argue that NGC 4945 is among the brightest neutrino active galaxies detectable for KM3Net and Baikal-GVD. On the other hand, in contrast to other reported results, we do not detect gamma rays from NGC 4151, which constrains neutrino emission from the accretion shock model. Future neutrino detectors such as IceCube-Gen2 and MeV gamma-ray telescopes such as AMEGO-X will be crucial for discriminating among the theoretical models.
 
 # dark matter (0)
 
-# supernova (0)
+# supernova (1)
+
+2023-12-26, **Dust survival in harsh environments -- Is photo-evaporation an important destruction mechanism?**, Ambra Nanni et.al., [2312.15998v1](http://arxiv.org/abs/2312.15998v1)
+
+ Aims. We investigate the role of photo-evaporation of dust exposed to the radiation field from hot young stars and planetary nebulae (PNe) as a possible destruction mechanism of dust grains in the interstellar medium (ISM). Methods. We estimate photo-evaporation induced by the feedback of individual or clustered young stars, of PNe and in the presence of a variable radiation field scaled with the interstellar radiation field. For PNe we investigate dust photo-evaporation of both dust grains already present in the ISM as well as those formed in the last phases of the evolution of thermally pulsing asymptotic giant branch (TP-AGB) stars. We include dust photo-evaporation rate in models of dust evolution in galaxies for different assumptions of the dust growth scenario, dust-to-gas ratios, star formation histories, and initial mass functions of the stars. Results. For all the cases considered, we find that both photo-evaporation from young stars and from PNe are negligible with respect to other dust removal processes such as destruction from supernovae shocks, astration and possibly outflow. Grains are stable against photo-evaporation if they are exposed to a radiation field which is up to 10^7 times the interstellar radiation field. Conclusions. Dust grains of size >= 0.01 microns are not efficiently destroyed by photo-evaporation also in the presence of a strong radiation field.
 
