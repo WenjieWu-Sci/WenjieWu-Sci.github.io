@@ -12,8 +12,8 @@ aside:
   toc: true
 ---
 
- Updated on 2024.08.13
-# neutrino (6)
+ Updated on 2024.08.14
+# neutrino (5)
 
 2024-08-12, **Dissecting Lepton Number Violation in the Left-Right Symmetric Model: $0νββ$ decay, Møller scattering, and collider searches**, Gang Li et.al., [2408.06306v1](http://arxiv.org/abs/2408.06306v1)
 
@@ -35,11 +35,7 @@ aside:
 
  Combining the KSVZ axion model and the type-I seesaw mechanism, we construct a minimal axion model that may affect the phenomenon of neutrino oscillation. This minimal model requires flavor mixed axion-neutrinos interactions and two additional standard model (SM) singlet scalars which generate specific patterns of lepton mass matrices. These patterns yield a particular texture of Majorana neutrino mass matrix. We find that this texture, combined with existing neutrino experimental data, predicts an Inverted Hierarchy of neutrino masses with $17\lesssim m\_1/m\_3\lesssim 44$, and a hierarchy between the two VEVs of SM-singlet scalars. Finally, we examine the potential effect of this model on neutrino oscillation phenomena.
 
-2024-08-11, **Cross Sections and Inelasticity Distributions of High-Energy Neutrino Deep Inelastic Scattering**, Philip L. R. Weigel et.al., [2408.05866v1](http://arxiv.org/abs/2408.05866v1)
-
- This study presents a comprehensive model for neutrino deep inelastic scattering (DIS) cross sections spanning energies from 50 GeV to 5$\times10^{12}$ GeV with an emphasis on applications to neutrino telescopes. We provide calculations of the total charged-current DIS cross sections and inelasticity distributions up to NNLO for isoscalar nucleon targets and up to NLO order for nuclear targets. Several modifications to the structure functions are applied to improve the modeling of the cross sections at low energies where perturbative QCD is less accurate and at high energies where there is non-negligible top quark production, and small-$x$ logarithms need to be resumed. Using the FONLL general-mass variable-flavor number scheme, we account for heavy quark mass effects and separate the heavy flavor components of the structure functions, obtaining predictions of their relative contributions to the cross sections and the uncertainties arising from the parton distribution functions. Additionally, the effects of final state radiation are implemented in the calculation of the double-differential cross section and discussed in terms of their impact on measurements at neutrino telescopes.
-
-# dark matter (3)
+# dark matter (2)
 
 2024-08-12, **Density Distribution of Plasmas Resembling Dark Matter Halo Due to Ionization lag and Ambipolar Electric Field**, Haibin Chen et.al., [2408.06301v1](http://arxiv.org/abs/2408.06301v1)
 
@@ -49,11 +45,7 @@ aside:
 
  Although with great successes in explaining phenomena and natural behaviour involving the Universe or a part thereof, the General Theory of Relativity is far from a complete theory. There are plenty of avenues to investigate its extensions or generalisations that, in the future, could pave the way for a much deeper understanding and possibly solutions of current problems involving the Universe; e.g., dark matter, dark energy, fine-tuning, etc. Focusing on its extension within the framework of scalar tensor theory, we investigate the transformation of the Einstein-Hilbert action under the general disformal transformation coupled with set of triple KG constraints. The idea is that the general disformal transformation leads to an extremely complicated action necessitating a set of constraints to tame the resulting form. Motivated by previous studies on the invertibility and invariance of the massless Klein-Gordon equation under the general disformal transformation, we identify three constraints that significantly simplifies the transformed Einstein-Hilbert action. In four spacetime dimensions, we find that the transformed action is a sum of the original action and a disformal contribution involving a six-term Lagrangian that includes the Ricci tensor coupled to a sum of derivatives of scalar fields and kinetic terms. In three spacetime dimensions, the disformal contribution becomes a five-term Lagrangian. Lastly, in two spacetime dimensions, the Einstein-Hilbert action is invariant under the constrained disformal transformation.
 
-2024-08-11, **Constraints on non-standard cosmological models from Planck data**, Hoernisa Iminniyaz et.al., [2408.05716v1](http://arxiv.org/abs/2408.05716v1)
-
- We review the relic density of dark matter in the non-standard cosmological scenarios which includes kination models, brane world cosmology and shear dominated universe. Then we use the Planck data to find constraints on the parameter spaces as dark matter cross sections and the five dimentional Planck mass for brane cosmology, enhancement factor for kination model and the inverse-scaled shear temperature for shear dominated universe.
-
-# supernova (3)
+# supernova (2)
 
 2024-08-12, **Infant Type Ia Supernovae from the KMTNet I. Multi-Color Evolution and Populations**, Yuan Qi Ni et.al., [2408.06287v1](http://arxiv.org/abs/2408.06287v1)
 
@@ -62,8 +54,4 @@ aside:
 2024-08-12, **Status Report on the Chicago-Carnegie Hubble Program (CCHP): Three Independent Astrophysical Determinations of the Hubble Constant Using the James Webb Space Telescope**, Wendy L. Freedman et.al., [2408.06153v1](http://arxiv.org/abs/2408.06153v1)
 
  We present the latest results from the Chicago Carnegie Hubble Program (CCHP) to measure the Hubble constant using data from the James Webb Space Telescope (JWST). This program is based upon three independent methods: (1) Tip of the Red Giant Branch (TRGB) stars, (2) JAGB (J-Region Asymptotic Giant Branch) stars, and (3) Cepheids. Our program includes 10 nearby galaxies, each hosting Type Ia supernovae, suitable for measuring the Hubble constant (Ho). It also includes NGC 4258, which has a geometric distance, setting the zero point for all three methods. The JWST observations have significantly higher signal-to-noise and finer angular resolution than previous observations with the Hubble Space Telescope (HST). We find three independent values of Ho = 69.85 +/- 1.75 (stat) +/- 1.54 (sys) for the TRGB, Ho = 67.96 +/- 1.85 (stat) +/- 1.90 (sys) for the JAGB, and Ho = 72.05 +/- 1.86 (stat) +/- 3.10 (sys) km/s/Mpc for Cepheids. Tying into supernovae, and combining these methods adopting a flat prior, yields our current estimate of Ho = 69.96 +/- 1.05 (stat) +/- 1.12 (sys) km/s/Mpc. The distances measured using the TRGB and the JAGB method agree at the 1% level, but differ from the Cepheid distances at the 2.5-4% level. The value of Ho based on these two methods with JWST data alone is Ho = 69.03 +/- 1.75 (total error) km/sec/Mpc. These numbers are consistent with the current standard Lambda CDM model, without the need for the inclusion of additional new physics. Future JWST data will be required to increase the precision and accuracy of the local distance scale.
-
-2024-08-11, **How accurate are current $^{56}$Ni mass estimates in Type Ia Supernovae?**, Jagriti Gaba et.al., [2408.05763v1](http://arxiv.org/abs/2408.05763v1)
-
- The diversity of type Ia supernovae (SNe Ia) has become increasingly apparent with the rapid growth in observational data. Understanding the explosion mechanism of SNe Ia is crucial for their cosmological calibration and for advancing our knowledge of stellar physics. The estimation of $^{56}$Ni mass produced in these events is key to elucidating their explosion mechanism. This study compares two methods of $^{56}$Ni mass estimation. We first examine the relationship between peak luminosity and the second maximum in near-infrared (NIR) bands using observations of 18 nearby SNe Ia. Based on this relationship, we estimate the Ni mass for a set of nine well-observed SNe Ia using the Arnett rule. Additionally, we estimate the $^{56}$Ni mass using bolometric light curves of these SNe through energy conservation arguments. A comparison of these two estimation methods using Student's t-test reveals no statistically significant differences between the estimates. This finding suggests that both methods provide robust estimates of Ni mass in SNe Ia.
 
